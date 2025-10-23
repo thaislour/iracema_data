@@ -1,0 +1,9 @@
+# RDKit for chemical computations
+rdkit==2024.3.2
+
+# Environment configuration
+python-dotenv==1.0.1
+
+# Required by RDKit
+numpy==1.26.4
+pillow==10.4.0
